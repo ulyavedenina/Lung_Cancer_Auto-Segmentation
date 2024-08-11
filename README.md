@@ -13,6 +13,16 @@ The project involves:
 
 On the test set, the dice coefficient reaches 0.7959, the soft dice loss is 0.1663.
 
+## Prediction
+
+![Prediction Example](images/output.png)
+
+The image below shows a comparison between the original MRI subvolume, the ground truth, and the model's prediction (the data is visualized along the middle of the 2nd dimension):
+
+- **Left**: Original MRI slice
+- **Middle**: Ground truth segmentation
+- **Right**: Model prediction
+
 ## References
 
 This code is inspired by the assignment **'Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)'** from the **AI for Medical Diagnosis** course, which is part of the **AI for Medicine Specialization**.
