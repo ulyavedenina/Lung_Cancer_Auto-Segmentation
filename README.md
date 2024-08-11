@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project focuses on the automatic segmentation of lung tumors from 3D MRI images. The goal is to accurately identify and delineate tumor regions within the volumetric data, a critical step in the diagnosis and treatment planning for lung cancer.
+This project focuses on the automatic segmentation of lung tumors from 3D MRI images. Lung MRI is an imaging technique that provides detailed images of lung tissues and is crucial in detecting abnormalities like tumors. The goal of this project is to accurately identify and delineate tumor regions within the volumetric data, a critical step in the diagnosis and treatment planning for lung cancer.
+
+![MRI Example](images/mri.png)
 
 The project involves:
 
