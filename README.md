@@ -16,8 +16,9 @@ On the test set, the dice coefficient reaches 0.7959, the soft dice loss is 0.16
 ## Prediction
 
 ![Prediction Example](images/output.png)
+![Prediction Example](images/output_3.png)
 
-The image below shows a comparison between the original MRI subvolume, the ground truth, and the model's prediction (the data is visualized along the middle of the 2nd dimension):
+The images above show a comparison between the original MRI subvolume, the ground truth, and the model's prediction (the data is visualized along the middle of the 2nd dimension):
 
 - **Left**: Original MRI slice
 - **Middle**: Ground truth segmentation
